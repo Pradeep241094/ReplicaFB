@@ -1,0 +1,23 @@
+
+
+.sticky{
+    margin-top:0  !important;
+    position: fixed;
+    top: 50px;
+    width:21.5%;
+ 
+}
+.stick{
+    margin-top:0  !important;
+    position: fixed;
+    top: 50px;
+    width:21.5%;
+    
+}
+
+.stickattop{
+    margin-top:0  !important;
+    position: fixed;
+    width:21.5%;
+    
+}
